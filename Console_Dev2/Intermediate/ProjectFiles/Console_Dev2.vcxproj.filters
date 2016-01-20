@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Console_Dev2.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{C309CDD8-39C1-4752-8E65-1594FD9128DD}</UniqueIdentifier>
+			<UniqueIdentifier>{2687D0EA-C605-410E-BE46-5A0B8ADC9679}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Console_Dev2.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{1A33E7F9-F8BB-42B8-92F1-47D9EDA22B3B}</UniqueIdentifier>
+			<UniqueIdentifier>{265D756A-872C-4E12-AD2F-EDE884491F1D}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,7 +25,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Console_Dev2">
-			<UniqueIdentifier>{F651475E-A258-4D96-9F61-23A62C4BA917}</UniqueIdentifier>
+			<UniqueIdentifier>{A563703D-95B2-4699-9B53-73720BA4A111}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Console_Dev2\Console_Dev2.Build.cs">
 			<Filter>Source\Console_Dev2</Filter>

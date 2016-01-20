@@ -467,8 +467,8 @@ C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptGeneratorPlugin\Source\Scr
 C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptPlugin\Source\ScriptEditorPlugin\ScriptEditorPlugin.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptPlugin\Source\ScriptPlugin\ScriptPlugin.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Plugins\Slate\SlateRemote\Source\SlateRemote\SlateRemote.Build.cs
-C:\Users\sctcad\Desktop\Console_Dev2\Console_Dev2\Source\Console_Dev2\Console_Dev2.Build.cs
+C:\Users\sctcad\Desktop\rep\Console_Dev2\Source\Console_Dev2\Console_Dev2.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Source\UE4Editor.Target.cs
 C:\Program Files\Epic Games\4.10\Engine\Source\UE4Game.Target.cs
-C:\Users\sctcad\Desktop\Console_Dev2\Console_Dev2\Source\Console_Dev2.Target.cs
-C:\Users\sctcad\Desktop\Console_Dev2\Console_Dev2\Source\Console_Dev2Editor.Target.cs
+C:\Users\sctcad\Desktop\rep\Console_Dev2\Source\Console_Dev2.Target.cs
+C:\Users\sctcad\Desktop\rep\Console_Dev2\Source\Console_Dev2Editor.Target.cs

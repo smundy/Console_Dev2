@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{73684298-C4DD-42CF-BB0F-D8839B107E54}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{DAD4AC97-EEB7-439E-B997-4D1CDC0B231B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{D539C705-5AFB-40BA-8A73-E1BCC9DC0AA0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{A114BB3F-752A-4DF8-8444-647C8C8A185A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{B3E744C8-0C9E-4213-A9C1-04DB2F8265B9}"
 EndProject
@@ -45,8 +45,8 @@ Global
 		{B3E744C8-0C9E-4213-A9C1-04DB2F8265B9}.Shipping|Win32.Build.0 = BuiltWithUnrealBuildTool|Win32
 		{B3E744C8-0C9E-4213-A9C1-04DB2F8265B9}.Shipping|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
 		{B3E744C8-0C9E-4213-A9C1-04DB2F8265B9}.Shipping|Win64.Build.0 = BuiltWithUnrealBuildTool|Win32
-		{FC52FC21-A4BC-4B63-847F-1172A48B9085}.DebugGame Editor|Win32.ActiveCfg = DebugGame_Editor|Win32
-		{FC52FC21-A4BC-4B63-847F-1172A48B9085}.DebugGame Editor|Win32.Build.0 = DebugGame_Editor|Win32
+		{FC52FC21-A4BC-4B63-847F-1172A48B9085}.DebugGame Editor|Win32.ActiveCfg = DebugGame_Editor|x64
+		{FC52FC21-A4BC-4B63-847F-1172A48B9085}.DebugGame Editor|Win32.Build.0 = DebugGame_Editor|x64
 		{FC52FC21-A4BC-4B63-847F-1172A48B9085}.DebugGame Editor|Win64.ActiveCfg = DebugGame_Editor|x64
 		{FC52FC21-A4BC-4B63-847F-1172A48B9085}.DebugGame Editor|Win64.Build.0 = DebugGame_Editor|x64
 		{FC52FC21-A4BC-4B63-847F-1172A48B9085}.DebugGame|Win32.ActiveCfg = DebugGame_Game|Win32
@@ -70,7 +70,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B3E744C8-0C9E-4213-A9C1-04DB2F8265B9} = {73684298-C4DD-42CF-BB0F-D8839B107E54}
-		{FC52FC21-A4BC-4B63-847F-1172A48B9085} = {D539C705-5AFB-40BA-8A73-E1BCC9DC0AA0}
+		{B3E744C8-0C9E-4213-A9C1-04DB2F8265B9} = {DAD4AC97-EEB7-439E-B997-4D1CDC0B231B}
+		{FC52FC21-A4BC-4B63-847F-1172A48B9085} = {A114BB3F-752A-4DF8-8444-647C8C8A185A}
 	EndGlobalSection
 EndGlobal
