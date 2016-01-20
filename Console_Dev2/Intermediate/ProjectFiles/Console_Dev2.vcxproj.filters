@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Console_Dev2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{C309CDD8-39C1-4752-8E65-1594FD9128DD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Console_Dev2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Console_Dev2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{1A33E7F9-F8BB-42B8-92F1-47D9EDA22B3B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Console_Dev2">
+			<UniqueIdentifier>{F651475E-A258-4D96-9F61-23A62C4BA917}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Console_Dev2\Console_Dev2.Build.cs">
+			<Filter>Source\Console_Dev2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Console_Dev2\Console_Dev2.cpp">
+			<Filter>Source\Console_Dev2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Console_Dev2\Console_Dev2.h">
+			<Filter>Source\Console_Dev2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Console_Dev2\Console_Dev2GameMode.cpp">
+			<Filter>Source\Console_Dev2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Console_Dev2\Console_Dev2GameMode.h">
+			<Filter>Source\Console_Dev2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
